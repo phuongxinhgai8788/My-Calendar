@@ -1,0 +1,10 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="app_name">Time Management</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="facebook_app_id">824480928484081</string>
+    <string name="fb_login_protocol_scheme">fb824480928484081</string>
+
+    <string name="com.twitter.sdk.CONSUMER_KEY">TSQCRWPvND9SLwOnlF66oldDP</string>
+    <string name="com.twitter.sdk.CONSUMER_SECRET">ZhNHW58FSZSs4DTglONOqMcuBEG87aoqxTVPr87RrsHYhLFILD</string>
+</resources>
