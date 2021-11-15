@@ -2,7 +2,7 @@
 Time Management Application
 
 
-MUL Project 
+
 
 
 
