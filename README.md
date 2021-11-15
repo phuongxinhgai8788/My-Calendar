@@ -2,7 +2,7 @@
 Time Management Application
 
 
-SS2 Project 
+MUL Project 
 
 
 
@@ -11,8 +11,8 @@ Members:
 
         Nguyễn Thị Ngọc Ánh
 
-        Lê Thị Minh Phượng
+        Hoàng Thanh Nga
 
-        Nguyễn Thị Thảo
+        Phạm Hồng Ngọc
 
-        Nguyễn Thị Thùy
+        Nguyễn Thu Trang
